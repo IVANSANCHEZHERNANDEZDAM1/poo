@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="caballos"/>
+	<classpathentry kind="src" path="vehiculoss"/>
+	<classpathentry kind="src" path="animales"/>
+	<classpathentry kind="src" path="fracciones"/>
+	<classpathentry kind="src" path="pipsas"/>
+	<classpathentry kind="src" path="tiempo"/>
+	<classpathentry kind="src" path="cochemalaga"/>
+	<classpathentry kind="src" path="terminales"/>
+	<classpathentry kind="src" path="moviles"/>
+	<classpathentry kind="src" path="amebas"/>
+	<classpathentry kind="src" path="corteregalo"/>
+	<classpathentry kind="src" path="biblioteca"/>
+	<classpathentry kind="src" path="banco"/>
+	<classpathentry kind="src" path="domino"/>
+	<classpathentry kind="src" path="domino2"/>
+	<classpathentry kind="src" path="lineapunto"/>
+	<classpathentry kind="src" path="piramideyrectangulo"/>
+	<classpathentry kind="src" path="incidencias"/>
+	<classpathentry kind="src" path="gatos1"/>
+	<classpathentry kind="src" path="gatos2"/>
+	<classpathentry kind="src" path="colecciondisco1"/>
+	<classpathentry kind="src" path="colecciondiscos2"/>
+	<classpathentry kind="src" path="articulo"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
